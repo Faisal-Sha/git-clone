@@ -1,4 +1,4 @@
-# Challenge 26 - Write Your Own Git
+# Write Your Own Git
 
 This challenge corresponds to the 26<sup>th</sup> part of the Coding Challenges series by John Crickett https://codingchallenges.fyi/challenges/challenge-git.
 
